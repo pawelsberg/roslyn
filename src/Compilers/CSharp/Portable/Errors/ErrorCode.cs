@@ -1966,7 +1966,8 @@ namespace Microsoft.CodeAnalysis.CSharp
 
         ERR_MultipleFileScopedNamespace = 8940,
         ERR_FileScopedAndNormalNamespace = 8941,
-        ERR_FileScopedNamespaceNotBeforeAllMembers = 8942,
+
+        ERR_FileScopedNamespaceNotBeforeAllMembers = 8954,
 
 
         #endregion
